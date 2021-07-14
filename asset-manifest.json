@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kingsyard-monsters-rolodex/static/css/main.3ef8ceda.chunk.css",
+    "main.js": "/Kingsyard-monsters-rolodex/static/js/main.eeb886c6.chunk.js",
+    "main.js.map": "/Kingsyard-monsters-rolodex/static/js/main.eeb886c6.chunk.js.map",
+    "runtime-main.js": "/Kingsyard-monsters-rolodex/static/js/runtime-main.ba826cd6.js",
+    "runtime-main.js.map": "/Kingsyard-monsters-rolodex/static/js/runtime-main.ba826cd6.js.map",
+    "static/js/2.b2709879.chunk.js": "/Kingsyard-monsters-rolodex/static/js/2.b2709879.chunk.js",
+    "static/js/2.b2709879.chunk.js.map": "/Kingsyard-monsters-rolodex/static/js/2.b2709879.chunk.js.map",
+    "static/js/3.aab93fdf.chunk.js": "/Kingsyard-monsters-rolodex/static/js/3.aab93fdf.chunk.js",
+    "static/js/3.aab93fdf.chunk.js.map": "/Kingsyard-monsters-rolodex/static/js/3.aab93fdf.chunk.js.map",
+    "index.html": "/Kingsyard-monsters-rolodex/index.html",
+    "static/css/main.3ef8ceda.chunk.css.map": "/Kingsyard-monsters-rolodex/static/css/main.3ef8ceda.chunk.css.map",
+    "static/js/2.b2709879.chunk.js.LICENSE.txt": "/Kingsyard-monsters-rolodex/static/js/2.b2709879.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba826cd6.js",
+    "static/js/2.b2709879.chunk.js",
+    "static/css/main.3ef8ceda.chunk.css",
+    "static/js/main.eeb886c6.chunk.js"
+  ]
+}
